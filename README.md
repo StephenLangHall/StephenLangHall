@@ -1,5 +1,5 @@
-Hi, I’m Stephen Hall
-I’m interested in linux, operating systems, and programming,
+Hi, I’m Stephen Hall.  
+I’m interested in linux, operating systems, and programming,  
 and am currently learning Python and C.
 
 Reach me at Stephenlh2007@gmail.com
